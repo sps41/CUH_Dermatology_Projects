@@ -13,3 +13,16 @@
 7. Assist or direct implementation of 6. <br>
 8. Re-audit after appropraite period (6 months, 12 months, 2 years)
 
+**Title:** Audit diagnosis of BP in CUH <br>
+**Clinician responsible:** Dr Stephen Smith <br>
+**Aim:** To audit the diagnostic tests used for suspected bullous pemphigoid in CUH  <br>
+**Description:** See [clinical projects page](/Clinical_Projects.md/) for background. <br>
+*Methods:* 1. Summarise national and international guidelines on diagnosis of BP  <br>
+2. Identify a series of 50 patients with both BP antigen and diagnostic biopsy results (positive or negative; EPIC query), 100 patients with either result and 100 patients with a diagnosis of BP (there will be overlap) <br>
+3. For each case identify the results, test concordance and final diagnosis <br>
+4. Describe the proportions referred who met or did not the criteria identified in 1. <br>
+5. Recommend actions (if needed) to improve adherence to the guidelines <br>
+6. Present findings and recommendations for action (written and oral presentations, publication) <br>
+7. Assist or direct implementation of 6. <br>
+8. Re-audit after appropriate period (6 months, 12 months, 2 years) <br>
+9. Feed rslts back into clinical project by providing diagnostic test accuracy statistics and cost-of-disease paramaters.
