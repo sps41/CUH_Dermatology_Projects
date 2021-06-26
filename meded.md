@@ -4,3 +4,9 @@
 **Clinician responsible:** Dr Marc Wallace <br>
 **Aim:** To create a GP resource pack to aid A+G  <br>
 **Description:** ideally written by a left handed student but idea would be to write to each specialty in trust, find out how many left handed surgeons/procedural operators they have (compare this to baseline pop figures or control group for interest) and then qualitatively interview to find tips on how to adapt or use info to help trust improve equality/access especially with training tools etc  <br>
+
+**Title:** Online consent resource <br>
+**Clinician responsible:** Dr Marc Wallace <br>
+**Aim:** To create an online resource to aid consent for surgery  <br>
+**Description:** Create an online resource to aid consent for surgery detailing the various steps with video eg injection of local etc  <br>
+
