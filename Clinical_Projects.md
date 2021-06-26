@@ -3,16 +3,10 @@
 **Aim:** To create a database of pre and post photos of surgery for patients to understand how removal of various lesions might evolve at points up to 1 year  <br>
 **Description:** Create a database of pre and post photos of surgery potentially using patient supplied post op images and automated MyChart reminders at set intervals ultimately to be used as an online resource  <br>
 
-**Title:** Online consent resource <br>
-**Clinician responsible:** Dr Marc Wallace <br>
-**Aim:** To create an online resource to aid consent for surgery  <br>
-**Description:** Create an online resource to aid consent for surgery detailing the various steps with video eg injection of local etc  <br>
-
 **Title:** Visual guide to quantity of steroid used for various body sites <br>
 **Clinician responsible:** Dr Marc Wallace<br>
 **Aim:** To create a visual guide to quantity of steroid used for various body sites  <br>
 **Description:** visual guide to quantity of steroid used for various body sites  <br> 
-
 
 **Title:** Emollient weight calibration <br>
 **Clinician responsible:** Dr Marc Wallace <br>
